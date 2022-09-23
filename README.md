@@ -1,0 +1,5 @@
+- # sobre mim
+-ola meu nome é @matheus.dasilva.bueno
+- meu email de contato matheus.dasilva.bueno@escola.pr.gov.br
+- eu estou interresado em aprender em programar novas tecnologias
+- eu estou aprendendo a programar recentemente a linguagem de javaScript e scracht
